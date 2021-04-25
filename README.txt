@@ -1,4 +1,4 @@
-# Hidrogaming.github.io
+# HidroGaming.github.io
 It's a fully open source website but before ask me for the modifications.
 
 # Download
