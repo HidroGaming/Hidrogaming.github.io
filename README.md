@@ -1,4 +1,4 @@
-# Hidrogaming.github.io/ http://hidro.cf
+# https://Hidrogaming.github.io
 A repository for my website
 
 # License
